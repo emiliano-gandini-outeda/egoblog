@@ -1,5 +1,5 @@
 baseURL: "https://blog.emiliano-gandini-outeda.uy/"
-languageCode: "en-us"
+locale: "en-US"
 title: "Dev Blog"
 theme: "PaperMod"
 
