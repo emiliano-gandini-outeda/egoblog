@@ -8,7 +8,7 @@ I've always considered me a **Filomath**, as I've been curious about everything 
 
 When I was **younger**, I was really into **Astronomy**. My grandfather was (and is) an amateur astronomer, and studied astronomy for years in college, even tough he was a doctor. I've learned a lot of what I know about astronomy from him, but I've also studied it on my own. Did you know that, hypothetically, we could all vanish in about 8 minutes if even a **tiny spec** of rare matter collided with earth? Fun, right?
 
-Anyway, as I grew up, different topics attracted my interest: immunology, psychology, web development (as a whole), and then, as of this year, data science. Having this interests (and a strict studying regime) allowed me to develop a specific way of studying as to maximize my learning.
+Anyway, as I grew up, different topics attracted my interest: immunology, psychology, web development (as a whole), and then, as of this year, data science. Having these interests (and a strict studying regime) allowed me to develop a specific way of studying as to maximize my learning.
 
 My learning workflow is separated in **two** big steps: **Absorbing** and **Applying**.
 
