@@ -1,6 +1,6 @@
 baseURL: "https://blog.emiliano-gandini-outeda.uy/"
 locale: "en-US"
-title: "Dev Blog"
+title: "Emiliano Gandini"
 theme: "PaperMod"
 
 pagination:
@@ -25,7 +25,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
