@@ -1,6 +1,6 @@
 {{- with .File }}
   {{- $key := .Path | replaceRE `\.md$` "" | replaceRE `/` "_" }}
-  {{- with index (hugo.Data).seo $key }}
+  {{- with index (site.Data).seo $key }}
     <link rel="canonical" href="{{ .canonical }}">
     <meta name="description" content="{{ .description }}">
     {{- with .robots }}
