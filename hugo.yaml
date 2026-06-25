@@ -1,6 +1,6 @@
 baseURL: "https://blog.emiliano-gandini-outeda.uy/"
 locale: "en-US"
-title: "Emiliano Gandini"
+title: "Emiliano G.O."
 theme: "PaperMod"
 
 pagination:
@@ -18,8 +18,13 @@ minify:
 params:
   env: production
   title: "Dev Blog"
+
+  assets:
+    favicon: "/favicon.svg"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
   description: "My Personal blog where I write about whatever I'm learning/working rn."
-  author: "Emiliano Gandini Outeda"
+  author: "Emiliano G.O."
 
   defaultTheme: dark
   disableThemeToggle: false
